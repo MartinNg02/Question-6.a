@@ -24,4 +24,6 @@ class MainClass(GeneratorStrategy): #our subclass inheriting GeneratorStrategy p
         
   
 
-The first change 
+#The first change 
+#The second change
+#The third change, hopefully this is correct
